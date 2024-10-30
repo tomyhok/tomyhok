@@ -1,3 +1,3 @@
-- 👋 Hi, Soy @tomyhok
+- 👋 Hola, Soy @tomyhok
 - 👀 Tengo interés por desarrollar mis conocimientos sobre programación y los sistemas de información.
 - 🌱 Actualmente me encuentro en mi primer año de la Licenciatura en Gestión de Tecnologías de la Información en UADE.
